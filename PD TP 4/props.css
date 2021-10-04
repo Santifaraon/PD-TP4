@@ -1,0 +1,23 @@
+.h1 {background-color:lightblue;text-align: center;text-decoration: underline;font-size: 250%}
+.h2 {background-color:orange;text-align: left;text-decoration: underline;font-size: 190%}
+.p1 {font-family: cursive; color:white}
+.p2 {font-family: fantasy; color:white}
+.imgw {width:300px;height: 300px; object-fit: cover;}
+.background {background-image:url("https://www.solofondos.com/wp-content/uploads/2015/11/Imagen-de-fondo-html.jpg");background-repeat: repeat;}
+
+header {background-color: white; text-align:  center;}
+nav {background-color: red}
+section  {background-color: blue; font-family: cursive; color:white}
+aside {background-color: tomato; font-family: fantasy; color:white}
+footer {background-color: black; font-family: cursive; color: white}
+a:hover {background-color: red; font-family: fantasy; color: black}
+a::before {font-family: cursive; color:white}
+a:::after {background-color: blue; font-family: fantasy; color: white}
+aside img:hover {height:100%; width:100%;}
+section img:hover {height:100%; width:100%;}
+header h1:hover {background-color: white;text-align: center; color: red}
+section p:hover {background-color: blue; font-family: cursive; color:red}
+aside p:hover {background-color: tomato; font-family: fantasy; color:red}
+section {float;left; width: 50%;}
+aside {float: left; width: 50%}
+footer {float: right; width: 40%}
